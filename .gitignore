@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv
+venv
+create_table.py
+data.db
